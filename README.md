@@ -13,6 +13,3 @@
   WebStorm 主要用于开发 JavaScript、HTML5、CSS3 等前端技术
   0xDBE 主要用于开发 SQL
   Android Studio 主要用于开发 Android（Google 基本 IntelliJ IDEA 社区版进行迭代所以也姑且算上）
-# !!!
-# 请同学们下载到本地学习查看
-# !!!
